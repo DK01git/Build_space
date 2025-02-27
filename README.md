@@ -9,6 +9,9 @@ https://huggingface.co/spaces/dagrodiluksha/kdu-demo1
 ##  Groc APIs
 https://console.groq.com/keys
 
+## SERPER API
+https://serper.dev/api-key
+
 ##  Openai APIs
 
 https://platform.openai.com/docs/overview
