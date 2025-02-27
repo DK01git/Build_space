@@ -43,6 +43,9 @@ create new file >> .env >> YOUR_API = "API_KEY"
 
 ## 6. run the .py file
 
+![image](https://github.com/user-attachments/assets/e5a3cea1-0822-4d66-b75d-aaf53c97e83c)
+
+
 
 # Deploy in Hugging Face
 
