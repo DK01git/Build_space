@@ -26,7 +26,7 @@ python -m venv venv
 
 ## 2. activate the venv:
 
-venv\Scripts\activate
+venv/Scripts/activate
 
 ## 3. install required packages:
 
